@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Meenaxi
 
 Welcome to my GitHub!
-I’m a BCA student exploring the world of technology, building projects, and improving my skills step by step.
+exploring the world of technology, building projects, and improving my skills step by step.
 
 ---
 
